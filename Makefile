@@ -28,7 +28,7 @@ ifneq ($(dirty),)
 VERSION := $(VERSION).dev
 endif
 
-id = $(shell head -c20 /dev/urandom|od -An -tx1|tr -d ' \n')
+id = $(shell head -c15 /dev/urandom|od -An -tx1|tr -d ' \n')
 
 bin-linux-amd64: $(outsuffix).linux-amd64
 bin-linux-arm: $(outsuffix).linux-arm
