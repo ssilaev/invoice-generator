@@ -1,5 +1,6 @@
 *.idea/
 *__idea__/
+.DS_Store
 *.log
 *.db
 .vscode/

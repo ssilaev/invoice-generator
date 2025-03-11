@@ -16,7 +16,14 @@ Download the binary file for your platform, copy it to `/usr/local/bin`, and
 give execute permission. Here is an example of my configuration for Linux:
 
 ```shell
-sudo wget https://8am.dev/enodllew/invoice-generator/releases/download/v0.9/invoice-generator.linux-amd64 -O /usr/local/bin/invoice-generator
+sudo wget https://8am.dev/enodllew/invoice-generator/releases/download/latest/invoice-generator.linux-amd64 -O /usr/local/bin/invoice-generator
+sudo chmod +x /usr/local/bin/invoice-generator
+```
+
+And for MacOS:
+
+```shell
+sudo wget https://8am.dev/enodllew/invoice-generator/releases/download/latest/invoice-generator.darwin-arm64 -O /usr/local/bin/invoice-generator
 sudo chmod +x /usr/local/bin/invoice-generator
 ```
 
@@ -76,7 +83,7 @@ USAGE:
    invoice-generator [global options] command [command options] [arguments...]
 
 VERSION:
-   0.7
+   0.9
 
 DESCRIPTION:
    This is a simple tool for generating invoices in automatic mode. There is no need to fill out anything every month. You do it once and that's it.
