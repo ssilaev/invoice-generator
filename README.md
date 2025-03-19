@@ -1,5 +1,14 @@
 # Invoice-generator
 
+![](https://img.shields.io/github/v/release/enodllew/invoice-generator)
+![](https://img.shields.io/github/stars/enodllew/invoice-generator)
+![](https://img.shields.io/github/downloads/enodllew/invoice-generator/total)
+![](https://img.shields.io/github/repo-size/enodllew/invoice-generator)
+![](https://img.shields.io/github/release-date/enodllew/invoice-generator)
+![](https://img.shields.io/github/last-commit/enodllew/invoice-generator)
+![](https://img.shields.io/github/languages/top/enodllew/invoice-generator)
+
+
 Invoice-generator is a simple tool for generating invoices in automatic mode.
 There is no need to fill out anything every month. You do it once and that's it.
 
