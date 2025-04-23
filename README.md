@@ -1,8 +1,8 @@
 # Invoice-generator
 
-![](https://img.shields.io/github/downloads/enodllew/invoice-generator/total)
-![](https://img.shields.io/github/repo-size/enodllew/invoice-generator)
-![](https://img.shields.io/github/languages/top/enodllew/invoice-generator)
+![](https://img.shields.io/github/downloads/ssilaev/invoice-generator/total)
+![](https://img.shields.io/github/repo-size/ssilaev/invoice-generator)
+![](https://img.shields.io/github/languages/top/ssilaev/invoice-generator)
 
 
 Invoice-generator is a simple tool for generating invoices in automatic mode.
@@ -15,20 +15,20 @@ files and put them in different folders where you want to save invoices.
 
 ### Binaries
 
-Pre-built [binaries](https://github.com/enodllew/invoice-generator/releases/latest)
+Pre-built [binaries](https://github.com/ssilaev/invoice-generator/releases/latest)
 
 Download the binary file for your platform, copy it to `/usr/local/bin`, and
 give execute permission. Here is an example of my configuration for Linux:
 
 ```shell
-sudo wget https://github.com/enodllew/invoice-generator/releases/latest/download/invoice-generator.linux-amd64 -O /usr/local/bin/invoice-generator
+sudo wget https://github.com/ssilaev/invoice-generator/releases/latest/download/invoice-generator.linux-amd64 -O /usr/local/bin/invoice-generator
 sudo chmod +x /usr/local/bin/invoice-generator
 ```
 
 And for MacOS:
 
 ```shell
-sudo wget https://github.com/enodllew/invoice-generator/releases/latest/download/invoice-generator.darwin-arm64 -O /usr/local/bin/invoice-generator
+sudo wget https://github.com/ssilaev/invoice-generator/releases/latest/download/invoice-generator.darwin-arm64 -O /usr/local/bin/invoice-generator
 sudo chmod +x /usr/local/bin/invoice-generator
 ```
 
@@ -37,7 +37,7 @@ sudo chmod +x /usr/local/bin/invoice-generator
 Clone the repo:
 
 ```shell
-git clone https://github.com/enodllew/invoice-generator.git
+git clone https://github.com/ssilaev/invoice-generator.git
 ```
 
 Run the command:
